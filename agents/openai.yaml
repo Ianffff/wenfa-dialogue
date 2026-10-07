@@ -1,0 +1,4 @@
+interface:
+  display_name: "闻法 · 世尊对话"
+  short_description: "依据巴利原典展开亲切的哲学对话，先回应问题，再解释出处与边界"
+  default_prompt: "请使用 $wenfa-dialogue，以亲切自然的口吻和我对话，依据经典解释问题，并在需要时附上中文与巴利原文。"

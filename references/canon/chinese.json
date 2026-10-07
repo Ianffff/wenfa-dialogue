@@ -1,0 +1,1248 @@
+{
+  "version": "0.7.0",
+  "status": "provisional_editorial_translation",
+  "method": "AI编辑中文工作译文，以固定巴利底本为主、对照Sujato英译；非正式出版译本，非独立语义认证。",
+  "reading_excerpts": {
+    "vajira-chariot": [
+      "sn5.10:3.5",
+      "sn5.10:5.1",
+      "sn5.10:5.2",
+      "sn5.10:5.3",
+      "sn5.10:5.4"
+    ],
+    "feeling-many-causes": [
+      "sn36.21:2.1",
+      "sn36.21:3.1",
+      "sn36.21:3.2",
+      "sn36.21:3.3",
+      "sn36.21:3.4",
+      "sn36.21:3.5",
+      "sn36.21:3.6",
+      "sn36.21:3.7"
+    ],
+    "faith-truth": [
+      "mn95:15.3",
+      "mn95:15.4",
+      "mn95:15.5",
+      "mn95:15.6"
+    ],
+    "practice-truth": [
+      "mn95:21.3",
+      "mn95:21.4"
+    ],
+    "right-effort": [
+      "dn22:21.20",
+      "dn22:21.21",
+      "dn22:21.22",
+      "dn22:21.23"
+    ],
+    "right-immersion": [
+      "dn22:21.35"
+    ],
+    "breathing-awareness": [
+      "dn22:2.3"
+    ],
+    "hindrances": [
+      "dn22:13.5"
+    ],
+    "not-self": [
+      "sn22.59:2.1",
+      "sn22.59:2.4",
+      "sn22.59:2.5"
+    ],
+    "two-arrows": [
+      "sn36.6:1.6",
+      "sn36.6:1.7",
+      "sn36.6:1.8",
+      "sn36.6:1.9"
+    ],
+    "sexual-conduct": [
+      "mn41:8.4",
+      "mn41:8.5"
+    ],
+    "mental-conduct": [
+      "mn41:10.3",
+      "mn41:14.3"
+    ],
+    "speech": [
+      "mn41:13.5"
+    ],
+    "rebirth": [
+      "mn41:5.1",
+      "mn41:5.2"
+    ],
+    "freed-person": [
+      "mn72:16.1",
+      "mn72:16.2",
+      "mn72:16.3",
+      "mn72:16.4",
+      "mn72:16.5",
+      "mn72:16.6",
+      "mn72:16.7",
+      "mn72:16.8",
+      "mn72:19.10",
+      "mn72:19.11",
+      "mn72:19.12",
+      "mn72:19.13",
+      "mn72:19.14",
+      "mn72:19.15",
+      "mn72:19.16",
+      "mn72:19.17",
+      "mn72:19.18",
+      "mn72:20.4"
+    ],
+    "parents": [
+      "dn31:28.4"
+    ],
+    "loved-ones": [
+      "mn87:3.8",
+      "mn87:3.9"
+    ],
+    "wealth-uses": [
+      "an4.61:13.3",
+      "an4.61:13.4"
+    ],
+    "four-happiness": [
+      "an4.62:2.3",
+      "an4.62:4.2",
+      "an4.62:5.2"
+    ],
+    "household-work": [
+      "an8.54:2.3"
+    ],
+    "teach-dhamma": [
+      "mn26:19.6",
+      "mn26:19.16",
+      "mn26:20.6",
+      "mn26:20.7",
+      "mn26:21.1",
+      "mn26:21.2",
+      "mn26:21.3"
+    ],
+    "awakening-content": [
+      "mn26:18.1",
+      "mn26:18.2",
+      "mn26:18.3",
+      "mn26:19.1",
+      "mn26:19.2",
+      "mn26:19.3",
+      "mn26:19.4",
+      "mn26:19.5"
+    ],
+    "alcohol-drawbacks": [
+      "dn31:7.1",
+      "dn31:7.2",
+      "dn31:8.1",
+      "dn31:8.2",
+      "dn31:8.3"
+    ],
+    "lay-ethical-training": [
+      "an8.54:9.1",
+      "an8.54:9.2",
+      "an8.54:9.3",
+      "an8.54:11.1",
+      "an8.54:11.2",
+      "an8.54:11.3"
+    ],
+    "noble-search-motive": [
+      "mn26:13.1",
+      "mn26:13.2",
+      "mn26:13.3",
+      "mn26:13.4",
+      "mn26:14.1"
+    ]
+  },
+  "segments": {
+    "sn5.10:3.5": {
+      "sutta_id": "sn5.10",
+      "pali": "Atha kho vajirā bhikkhunī “māro ayaṁ pāpimā” iti viditvā, māraṁ pāpimantaṁ gāthāhi paccabhāsi: ",
+      "english": "Then Vajirā, knowing that this was Māra the Wicked, replied to him in verse: ",
+      "chinese": "这时，金刚比丘尼知道“这是恶魔魔罗”，便以偈颂回答魔罗：",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "288baf9500d68f62fd842ea5e5b407396e3f26cb8451972b004c28cc92100bb3",
+        "translation-en-sujato": "ae82db64ee43f584192853e45a1f0f8f052b674444839014eb24872b81add123"
+      }
+    },
+    "sn5.10:5.1": {
+      "sutta_id": "sn5.10",
+      "pali": "Yathā hi aṅgasambhārā, ",
+      "english": "When the parts are assembled ",
+      "chinese": "正如部件聚集，",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "288baf9500d68f62fd842ea5e5b407396e3f26cb8451972b004c28cc92100bb3",
+        "translation-en-sujato": "ae82db64ee43f584192853e45a1f0f8f052b674444839014eb24872b81add123"
+      }
+    },
+    "sn5.10:5.2": {
+      "sutta_id": "sn5.10",
+      "pali": "hoti saddo ratho iti; ",
+      "english": "we use the word ‘chariot’. ",
+      "chinese": "便有“车”这一称呼；",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "288baf9500d68f62fd842ea5e5b407396e3f26cb8451972b004c28cc92100bb3",
+        "translation-en-sujato": "ae82db64ee43f584192853e45a1f0f8f052b674444839014eb24872b81add123"
+      }
+    },
+    "sn5.10:5.3": {
+      "sutta_id": "sn5.10",
+      "pali": "Evaṁ khandhesu santesu, ",
+      "english": "So too, when the aggregates are present ",
+      "chinese": "同样，诸蕴存在时，",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "288baf9500d68f62fd842ea5e5b407396e3f26cb8451972b004c28cc92100bb3",
+        "translation-en-sujato": "ae82db64ee43f584192853e45a1f0f8f052b674444839014eb24872b81add123"
+      }
+    },
+    "sn5.10:5.4": {
+      "sutta_id": "sn5.10",
+      "pali": "hoti sattoti sammuti. ",
+      "english": "‘sentient being’ is the convention we use. ",
+      "chinese": "便有“众生”这一惯常称谓。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "288baf9500d68f62fd842ea5e5b407396e3f26cb8451972b004c28cc92100bb3",
+        "translation-en-sujato": "ae82db64ee43f584192853e45a1f0f8f052b674444839014eb24872b81add123"
+      }
+    },
+    "sn36.21:2.1": {
+      "sutta_id": "sn36.21",
+      "pali": "“Pittasamuṭṭhānānipi kho, sīvaka, idhekaccāni vedayitāni uppajjanti. ",
+      "english": "“Sīvaka, some feelings stem from bile disorders. ",
+      "chinese": "尸婆，有些感受是由胆汁而生。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.1": {
+      "sutta_id": "sn36.21",
+      "pali": "Semhasamuṭṭhānānipi kho, sīvaka …pe… ",
+      "english": "Some feelings stem from phlegm disorders … ",
+      "chinese": "尸婆，也有由痰而生的感受……〔底本省略〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.2": {
+      "sutta_id": "sn36.21",
+      "pali": "vātasamuṭṭhānānipi kho, sīvaka …pe… ",
+      "english": "wind disorders … ",
+      "chinese": "尸婆，也有由风而生的感受……〔底本省略〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.3": {
+      "sutta_id": "sn36.21",
+      "pali": "sannipātikānipi kho, sīvaka …pe… ",
+      "english": "their conjunction … ",
+      "chinese": "尸婆，也有由这些因素共同作用而生的感受……〔底本省略〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.4": {
+      "sutta_id": "sn36.21",
+      "pali": "utupariṇāmajānipi kho, sīvaka …pe… ",
+      "english": "change in weather … ",
+      "chinese": "尸婆，也有由时节变化而生的感受……〔底本省略〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.5": {
+      "sutta_id": "sn36.21",
+      "pali": "visamaparihārajānipi kho, sīvaka …pe… ",
+      "english": "not taking care of yourself … ",
+      "chinese": "尸婆，也有由不当照护而生的感受……〔底本省略〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.6": {
+      "sutta_id": "sn36.21",
+      "pali": "opakkamikānipi kho, sīvaka …pe… ",
+      "english": "exertion … ",
+      "chinese": "尸婆，也有由外力作用而生的感受……〔底本省略〕",
+      "note": "opakkamika的译解存在差异；此处暂译外力作用，Sujato英译为exertion。古代病因分类不作现代诊断。",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "sn36.21:3.7": {
+      "sutta_id": "sn36.21",
+      "pali": "kammavipākajānipi kho, sīvaka, idhekaccāni vedayitāni uppajjanti. ",
+      "english": "Some feelings are the result of past deeds. ",
+      "chinese": "尸婆，有些感受是由业的果报而生。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "06521a9667b99dee6d9e0464805d32f14a93c3195c09460f0f724eacb3f1647c",
+        "translation-en-sujato": "ad04414e4ff744d66771aca28d410a1ed097e4932766dddbbf1ebf3c700de368"
+      }
+    },
+    "mn95:15.3": {
+      "sutta_id": "mn95",
+      "pali": "“Saddhā cepi, bhāradvāja, purisassa hoti; ",
+      "english": "“If a person has faith, ",
+      "chinese": "婆罗堕阇，即使一个人有信仰，",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "mn95:15.4": {
+      "sutta_id": "mn95",
+      "pali": "‘evaṁ me saddhā’ti—",
+      "english": "they preserve truth by saying, ‘Such is my faith.’ ",
+      "chinese": "他说：“我的信仰是这样。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "mn95:15.5": {
+      "sutta_id": "mn95",
+      "pali": "iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: ",
+      "english": "But they don’t yet come to the categorical conclusion: ",
+      "chinese": "这样说便是在护持真实，但还不就此作出确定的结论：",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "mn95:15.6": {
+      "sutta_id": "mn95",
+      "pali": "‘idameva saccaṁ, moghamaññan’ti (…). ",
+      "english": "‘This is the only truth, anything else is futile.’ ",
+      "chinese": "“唯有这是真的，其余都是虚妄。”〔底本此处有省略标记〕",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "mn95:21.3": {
+      "sutta_id": "mn95",
+      "pali": "Saccānuppattiṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. ",
+      "english": "",
+      "chinese": "我们向乔答摩尊者请问如何达到真实。",
+      "note": "本段英译为空；中文依据巴利文，不把空白误作经文缺失。",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "mn95:21.4": {
+      "sutta_id": "mn95",
+      "pali": "“Tesaṁyeva, bhāradvāja, dhammānaṁ āsevanā bhāvanā bahulīkammaṁ saccānuppatti hoti. ",
+      "english": "“By the cultivation, development, and making much of these very same things there is the attainment of truth. ",
+      "chinese": "婆罗堕阇，反复实践、培养并多多修习这些法，便是达到真实。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7c23ae8c99b0deede9de6ba3a38fa4753eebe299a8a061c91ec82aad0d9d0140",
+        "translation-en-sujato": "3e9b908bc0b06e7acd379f9e10cd588a99c554e32c95d4f4e142dd0788e58746"
+      }
+    },
+    "dn22:21.20": {
+      "sutta_id": "dn22",
+      "pali": "Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; ",
+      "english": "It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. ",
+      "chinese": "比丘们，在这里，比丘为了使尚未生起的恶、不善法不生起，而生起意愿，努力、发起精进、策励心并勤修。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:21.21": {
+      "sutta_id": "dn22",
+      "pali": "uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; ",
+      "english": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. ",
+      "chinese": "为了断除已经生起的恶、不善法，而生起意愿，努力、发起精进、策励心并勤修。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:21.22": {
+      "sutta_id": "dn22",
+      "pali": "anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; ",
+      "english": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. ",
+      "chinese": "为了使尚未生起的善法生起，而生起意愿，努力、发起精进、策励心并勤修。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:21.23": {
+      "sutta_id": "dn22",
+      "pali": "uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. ",
+      "english": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fully developed. ",
+      "chinese": "为了使已经生起的善法保持、不失、增长、广大，修习至圆满，而生起意愿，努力、发起精进、策励心并勤修。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:21.35": {
+      "sutta_id": "dn22",
+      "pali": "Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. ",
+      "english": "With the giving up of pleasure and pain and the disappearance of former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. ",
+      "chinese": "舍弃乐与苦，先前的喜与忧也已消逝，他进入并安住于不苦不乐、舍念清净的第四禅。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:2.3": {
+      "sutta_id": "dn22",
+      "pali": "So satova assasati, satova passasati. ",
+      "english": "Just mindful, they breathe in. Mindful, they breathe out. ",
+      "chinese": "他有念地吸气，有念地呼气。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "dn22:13.5": {
+      "sutta_id": "dn22",
+      "pali": "Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti, yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti. ",
+      "english": "When they have ill will in them, they understand: ‘I have ill will in me.’ When they don’t have ill will in them, they understand: ‘I don’t have ill will in me.’ They understand how ill will arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future. ",
+      "chinese": "内心有瞋恚时，了知“我内心有瞋恚”；内心没有瞋恚时，了知“我内心没有瞋恚”。他也了知尚未生起的瞋恚如何生起，已经生起的瞋恚如何断除，以及断除后如何在未来不再生起。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3872197cb1998b3281225c66c2929bf6a9535654ef630118ab372a6f33385e49",
+        "translation-en-sujato": "c5a8f449251ed64cc34a9eb4b2e20ed1d9982fcecd217c992bced884d465b004"
+      }
+    },
+    "sn22.59:2.1": {
+      "sutta_id": "sn22.59",
+      "pali": "“Rūpaṁ, bhikkhave, anattā. ",
+      "english": "“Mendicants, form is not-self. ",
+      "chinese": "比丘们，色是无我。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "bee5f0d60667161a14d78e4710b96710fca3bfc44025f4bffb0b0f61789ffbae",
+        "translation-en-sujato": "732e7e2b83a62fdecd802fa01be8f149f5d1db28e411b71e7b7eb844a885788b"
+      }
+    },
+    "sn22.59:2.4": {
+      "sutta_id": "sn22.59",
+      "pali": "Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe: ",
+      "english": "But because form is not-self, it leads to affliction. And you can’t compel form: ",
+      "chinese": "比丘们，正因为色是无我，所以色会导致恼患，也不能随意命令色：",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "bee5f0d60667161a14d78e4710b96710fca3bfc44025f4bffb0b0f61789ffbae",
+        "translation-en-sujato": "732e7e2b83a62fdecd802fa01be8f149f5d1db28e411b71e7b7eb844a885788b"
+      }
+    },
+    "sn22.59:2.5": {
+      "sutta_id": "sn22.59",
+      "pali": "‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti. ",
+      "english": "‘May my form be like this! May it not be like that!’ ",
+      "chinese": "“让我的色成为这样，不要成为那样。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "bee5f0d60667161a14d78e4710b96710fca3bfc44025f4bffb0b0f61789ffbae",
+        "translation-en-sujato": "732e7e2b83a62fdecd802fa01be8f149f5d1db28e411b71e7b7eb844a885788b"
+      }
+    },
+    "sn36.6:1.6": {
+      "sutta_id": "sn36.6",
+      "pali": "So dve vedanā vedayati—",
+      "english": "They experience two feelings: ",
+      "chinese": "他感受两种受——",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7ace8ea92b60c299f7f8c4dd7e413865d91fc6150686e718dacb63ae8866d640",
+        "translation-en-sujato": "549a4948db055486fa77a66ef4e8b26dc6a3d32677f3c4798117d11bbcc7972b"
+      }
+    },
+    "sn36.6:1.7": {
+      "sutta_id": "sn36.6",
+      "pali": "kāyikañca, cetasikañca. ",
+      "english": "physical and mental. ",
+      "chinese": "身体的和心理的。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7ace8ea92b60c299f7f8c4dd7e413865d91fc6150686e718dacb63ae8866d640",
+        "translation-en-sujato": "549a4948db055486fa77a66ef4e8b26dc6a3d32677f3c4798117d11bbcc7972b"
+      }
+    },
+    "sn36.6:1.8": {
+      "sutta_id": "sn36.6",
+      "pali": "Seyyathāpi, bhikkhave, purisaṁ sallena vijjheyya. ",
+      "english": "It’s like a person who is struck with an arrow, ",
+      "chinese": "比丘们，譬如一个人被一支箭射中，",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7ace8ea92b60c299f7f8c4dd7e413865d91fc6150686e718dacb63ae8866d640",
+        "translation-en-sujato": "549a4948db055486fa77a66ef4e8b26dc6a3d32677f3c4798117d11bbcc7972b"
+      }
+    },
+    "sn36.6:1.9": {
+      "sutta_id": "sn36.6",
+      "pali": "Tamenaṁ dutiyena sallena anuvedhaṁ vijjheyya. ",
+      "english": "only to be struck with a second arrow. ",
+      "chinese": "随后又被第二支箭射中。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7ace8ea92b60c299f7f8c4dd7e413865d91fc6150686e718dacb63ae8866d640",
+        "translation-en-sujato": "549a4948db055486fa77a66ef4e8b26dc6a3d32677f3c4798117d11bbcc7972b"
+      }
+    },
+    "mn41:8.4": {
+      "sutta_id": "mn41",
+      "pali": "Kāmesumicchācārī kho pana hoti. Yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi, tathārūpāsu cārittaṁ āpajjitā hoti. ",
+      "english": "They commit sexual misconduct. They have relations with women who have their mother, father, both mother and father, brother, sister, relatives, or clan as guardian. They have relations with a woman who is protected on principle, or who has a husband, or whose violation is punishable by law, or even one who has been garlanded as a token of betrothal. ",
+      "chinese": "他有欲邪行：对于由母亲、父亲、父母、兄弟、姐妹、亲属、族人或法所保护的女性，有丈夫的女性，侵犯会受处罚的女性，乃至已以花鬘作订婚标记的女性，与这类女性发生关系。",
+      "note": "dhammarakkhitā暂译“法所保护”，具体译解仍有空间；保留古代性别与保护关系语境。",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:8.5": {
+      "sutta_id": "mn41",
+      "pali": "Evaṁ kho, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti. ",
+      "english": "This is how unprincipled and immoral conduct is threefold by way of body. ",
+      "chinese": "居士们，这就是以身所行的三种非法、不正之行。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:10.3": {
+      "sutta_id": "mn41",
+      "pali": "Byāpannacitto kho pana hoti paduṭṭhamanasaṅkappo: ‘ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun’ti. ",
+      "english": "They have ill will and malicious intentions: ‘May these sentient beings be killed, slaughtered, slain, destroyed, or annihilated!’ ",
+      "chinese": "他怀有瞋恚、恶意的意向：“愿这些众生被击杀、被屠戮、被断灭、被毁灭，或不复存在！”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:14.3": {
+      "sutta_id": "mn41",
+      "pali": "Abyāpannacitto kho pana hoti appaduṭṭhamanasaṅkappo: ‘ime sattā averā abyābajjhā anīghā sukhī attānaṁ pariharantū’ti. ",
+      "english": "They have a kind heart and loving intentions: ‘May these sentient beings live free of enmity and ill will, untroubled and happy!’ ",
+      "chinese": "他没有瞋恚，也没有恶意的意向：“愿这些众生无怨、无害、无恼，安乐地照护自己。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:13.5": {
+      "sutta_id": "mn41",
+      "pali": "Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti. Kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṁ vācaṁ bhāsitā hoti kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ. ",
+      "english": "They give up talking nonsense. Their words are timely, true, and meaningful, in line with the teaching and training. They say things at the right time which are valuable, reasonable, succinct, and beneficial. ",
+      "chinese": "他舍弃并远离无益的闲谈，所说合时、真实、有义，合乎法与律；在适当的时候，说值得记取、有根据、有分寸、与利益相应的话。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:5.1": {
+      "sutta_id": "mn41",
+      "pali": "“Adhammacariyāvisamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti. ",
+      "english": "“Unprincipled and immoral conduct is the reason why some sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. ",
+      "chinese": "居士们，由于非法、不正的行为，有些众生在身体坏灭、死亡之后，投生于失落处、恶趣、堕处、地狱。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn41:5.2": {
+      "sutta_id": "mn41",
+      "pali": "Dhammacariyāsamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti. ",
+      "english": "Principled and moral conduct is the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.” ",
+      "chinese": "由于如法、正当的行为，有些众生在身体坏灭、死亡之后，投生于善趣、天界。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "3893a3e04b2d0026a0fd3440bdcac942595f0024aafa38a5f7595c141a404397",
+        "translation-en-sujato": "7a4cd5d81fb3fadba6f1b6241a7740d0b032f3488af2ff67d9fa1a70a69b2fa6"
+      }
+    },
+    "mn72:16.1": {
+      "sutta_id": "mn72",
+      "pali": "“Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī”ti? ",
+      "english": "“But worthy Gotama, when a mendicant’s mind is freed like this, where are they reborn?” ",
+      "chinese": "“乔答摩尊者，心这样解脱的比丘，会投生到哪里？”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.2": {
+      "sutta_id": "mn72",
+      "pali": "“Upapajjatīti kho, vaccha, na upeti”. ",
+      "english": "“‘They’re reborn’ doesn’t apply, Vaccha.” ",
+      "chinese": "“婆蹉，‘他会再生’这说法不适用。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.3": {
+      "sutta_id": "mn72",
+      "pali": "“Tena hi, bho gotama, na upapajjatī”ti? ",
+      "english": "“Well then, are they not reborn?” ",
+      "chinese": "“那么，乔答摩尊者，他不会再生吗？”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.4": {
+      "sutta_id": "mn72",
+      "pali": "“Na upapajjatīti kho, vaccha, na upeti”. ",
+      "english": "“‘They’re not reborn’ doesn’t apply, Vaccha.” ",
+      "chinese": "“婆蹉，‘他不会再生’这说法不适用。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.5": {
+      "sutta_id": "mn72",
+      "pali": "“Tena hi, bho gotama, upapajjati ca na ca upapajjatī”ti? ",
+      "english": "“Well then, are they both reborn and not reborn?” ",
+      "chinese": "“那么，乔答摩尊者，他既会再生又不会再生吗？”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.6": {
+      "sutta_id": "mn72",
+      "pali": "“Upapajjati ca na ca upapajjatīti kho, vaccha, na upeti”. ",
+      "english": "“‘They’re both reborn and not reborn’ doesn’t apply, Vaccha.” ",
+      "chinese": "“婆蹉，‘他既会再生又不会再生’这说法不适用。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.7": {
+      "sutta_id": "mn72",
+      "pali": "“Tena hi, bho gotama, neva upapajjati na na upapajjatī”ti? ",
+      "english": "“Well then, are they neither reborn nor not reborn?” ",
+      "chinese": "“那么，乔答摩尊者，他既非会再生，也非不会再生吗？”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:16.8": {
+      "sutta_id": "mn72",
+      "pali": "“Neva upapajjati na na upapajjatīti kho, vaccha, na upeti”. ",
+      "english": "“‘They’re neither reborn nor not reborn’ doesn’t apply, Vaccha.” ",
+      "chinese": "“婆蹉，‘他既非会再生，也非不会再生’这说法不适用。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "dn31:28.4": {
+      "sutta_id": "dn31",
+      "pali": "Pāpā nivārenti, kalyāṇe nivesenti, sippaṁ sikkhāpenti, patirūpena dārena saṁyojenti, samaye dāyajjaṁ niyyādenti. ",
+      "english": "They keep them from doing bad. They support them in doing good. They train them in a profession. They connect them with a suitable partner. They transfer the inheritance in due time. ",
+      "chinese": "他们使孩子远离恶行，支持孩子行善，教以技艺，使其与合适的配偶结合，并在适当的时候交付继承财产。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "mn87:3.8": {
+      "sutta_id": "mn87",
+      "pali": "“Evametaṁ, gahapati, evametaṁ, gahapati. ",
+      "english": "“That’s so true, householder! That’s so true, householder! ",
+      "chinese": "“居士，正是如此！居士，正是如此！",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "0cf1708554df93f5c8437bdd1cb85e240762f81092a250e719edc4dab894122f",
+        "translation-en-sujato": "b6ae1a75fdf5850c674d06a72643e3e03f14864d2cd05f13ca6751da634d4fed"
+      }
+    },
+    "mn87:3.9": {
+      "sutta_id": "mn87",
+      "pali": "Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti. ",
+      "english": "For our loved ones are a source of sorrow, lamentation, pain, sadness, and distress.” ",
+      "chinese": "居士，忧、悲、苦、愁、恼由所亲爱者而生，以所亲爱者为来源。”",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "0cf1708554df93f5c8437bdd1cb85e240762f81092a250e719edc4dab894122f",
+        "translation-en-sujato": "b6ae1a75fdf5850c674d06a72643e3e03f14864d2cd05f13ca6751da634d4fed"
+      }
+    },
+    "an4.61:13.3": {
+      "sutta_id": "an4.61",
+      "pali": "Idha, gahapati, ariyasāvako uṭṭhānavīriyādhigatehi bhogehi bāhābalaparicitehi sedāvakkhittehi dhammikehi dhammaladdhehi attānaṁ sukheti pīṇeti sammā sukhaṁ pariharati. ",
+      "english": "To start with, with his legitimate wealth he makes himself happy and pleased, keeping himself properly happy. ",
+      "chinese": "居士，在这里，圣弟子以勤奋精进所得、以臂力积聚、以汗水换来、如法正当取得的财富，使自己安乐、满足，妥善维持安乐的生活。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "922c686c9b98720cfae4cb25efb4e76be87bfd43e766cd9896d1113dac1d9fb5",
+        "translation-en-sujato": "fa4f7aa482030675ff554257120d2e90af19956a4409335a554d0ff821b15556"
+      }
+    },
+    "an4.61:13.4": {
+      "sutta_id": "an4.61",
+      "pali": "Mātāpitaro sukheti pīṇeti sammā sukhaṁ pariharati. ",
+      "english": "He makes his mother and father happy … ",
+      "chinese": "他使父母安乐、满足，妥善维持安乐的生活。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "922c686c9b98720cfae4cb25efb4e76be87bfd43e766cd9896d1113dac1d9fb5",
+        "translation-en-sujato": "fa4f7aa482030675ff554257120d2e90af19956a4409335a554d0ff821b15556"
+      }
+    },
+    "an4.62:2.3": {
+      "sutta_id": "an4.62",
+      "pali": "Atthisukhaṁ, bhogasukhaṁ, ānaṇyasukhaṁ, anavajjasukhaṁ. ",
+      "english": "The happiness of ownership, using wealth, debtlessness, and blamelessness. ",
+      "chinese": "拥有之乐、受用之乐、无债之乐、无过之乐。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "9b2788902a46f586608eeccc409c7610958ca5cfb21729f12ebcb699cfff05a4",
+        "translation-en-sujato": "b6b1b3289e6fba03e5c2827356899fb93d484c0b82c5c84e72847e9f7124c9b2"
+      }
+    },
+    "an4.62:4.2": {
+      "sutta_id": "an4.62",
+      "pali": "Idha, gahapati, kulaputto uṭṭhānavīriyādhigatehi bhogehi bāhābalaparicitehi sedāvakkhittehi dhammikehi dhammaladdhehi paribhuñjati puññāni ca karoti. ",
+      "english": "It’s when a gentleman uses his legitimate wealth, and makes merit with it. ",
+      "chinese": "居士，在这里，良家子受用勤奋精进所得、以臂力积聚、以汗水换来、如法正当取得的财富，也以之行福德。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "9b2788902a46f586608eeccc409c7610958ca5cfb21729f12ebcb699cfff05a4",
+        "translation-en-sujato": "b6b1b3289e6fba03e5c2827356899fb93d484c0b82c5c84e72847e9f7124c9b2"
+      }
+    },
+    "an4.62:5.2": {
+      "sutta_id": "an4.62",
+      "pali": "Idha, gahapati, kulaputto na kassaci kiñci dhāreti appaṁ vā bahuṁ vā. ",
+      "english": "It’s when a gentleman owes no debt, large or small, to anyone. ",
+      "chinese": "居士，在这里，良家子不欠任何人任何债务，无论多少。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "9b2788902a46f586608eeccc409c7610958ca5cfb21729f12ebcb699cfff05a4",
+        "translation-en-sujato": "b6b1b3289e6fba03e5c2827356899fb93d484c0b82c5c84e72847e9f7124c9b2"
+      }
+    },
+    "an8.54:2.3": {
+      "sutta_id": "an8.54",
+      "pali": "Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā. ",
+      "english": "Accomplishment in initiative, protection, good friendship, and balanced finances. ",
+      "chinese": "勤奋具足、守护具足、善友相交、收支平衡的生活。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "mn26:21.1": {
+      "sutta_id": "mn26",
+      "pali": "Atha kho ahaṁ, bhikkhave, brahmuno ca ajjhesanaṁ viditvā sattesu ca kāruññataṁ paṭicca buddhacakkhunā lokaṁ volokesiṁ. ",
+      "english": "Then, understanding the Divinity’s invitation, I surveyed the world with the eye of a Buddha, because of my compassion for sentient beings. ",
+      "chinese": "比丘们，那时我知道梵天的请求，又出于对众生的悲悯，便以佛眼观察世间。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:21.2": {
+      "sutta_id": "mn26",
+      "pali": "Addasaṁ kho ahaṁ, bhikkhave, buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe, tikkhindriye mudindriye, svākāre dvākāre, suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante. ",
+      "english": "And I saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the fault to do with the next world, while others did not. ",
+      "chinese": "比丘们，我以佛眼观察世间，见到众生有尘垢少的、尘垢多的，根器利的、根器钝的，品质好的、品质差的，容易教导的、难以教导的；有些人见到涉及后世的过患之危险而住，有些人则没有。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:21.3": {
+      "sutta_id": "mn26",
+      "pali": "Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni samodakaṁ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakaṁ accuggamma ṭhitāni anupalittāni udakena; ",
+      "english": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. Some of them sprout and grow in the water reaching the water’s surface. And some of them sprout and grow in the water but rise up above the water and stand with no water clinging to them. ",
+      "chinese": "譬如青莲、红莲或白莲的池中，有些莲花生于水、长于水，还未出水，在水下生长；有些生于水、长于水，达到水面；有些生于水、长于水，超出水面而立，不被水沾染。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn72:19.10": {
+      "sutta_id": "mn72",
+      "pali": "‘yo me ayaṁ purato aggi jalati ayaṁ aggi tiṇakaṭṭhupādānaṁ paṭicca jalatī’”ti. ",
+      "english": "‘This fire burning in front of me burns in dependence on grass and logs as fuel.’” ",
+      "chinese": "我会回答：“这团在我面前燃烧的火，依靠草木燃料而燃烧。”",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.11": {
+      "sutta_id": "mn72",
+      "pali": "“Sace te, vaccha, purato so aggi nibbāyeyya, jāneyyāsi tvaṁ: ",
+      "english": "“Suppose that fire burning in front of you was extinguished. Would you know: ",
+      "chinese": "“婆蹉，假如你面前的这团火熄灭了，你会知道：",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.12": {
+      "sutta_id": "mn72",
+      "pali": "‘ayaṁ me purato aggi nibbuto’”ti? ",
+      "english": "‘This fire in front of me is quenched’?” ",
+      "chinese": "‘我面前的这团火已经熄灭’吗？”",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.13": {
+      "sutta_id": "mn72",
+      "pali": "“Sace me, bho gotama, purato so aggi nibbāyeyya, jāneyyāhaṁ: ",
+      "english": "“Yes, I would, worthy Gotama.” ",
+      "chinese": "“乔答摩尊者，假如我面前的这团火熄灭了，我会知道：",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.14": {
+      "sutta_id": "mn72",
+      "pali": "‘ayaṁ me purato aggi nibbuto’”ti. ",
+      "english": "",
+      "chinese": "‘我面前的这团火已经熄灭。’”",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.15": {
+      "sutta_id": "mn72",
+      "pali": "“Sace pana taṁ, vaccha, evaṁ puccheyya: ",
+      "english": "“But Vaccha, suppose they were to ask you: ",
+      "chinese": "“婆蹉，假如有人这样问你：",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.16": {
+      "sutta_id": "mn72",
+      "pali": "‘yo te ayaṁ purato aggi nibbuto so aggi ito katamaṁ disaṁ gato—",
+      "english": "‘This fire in front of you that is quenched: in what direction did it go—",
+      "chinese": "‘你面前这团已经熄灭的火，从这里去了哪个方向——",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.17": {
+      "sutta_id": "mn72",
+      "pali": "puratthimaṁ vā dakkhiṇaṁ vā pacchimaṁ vā uttaraṁ vā’ti, evaṁ puṭṭho tvaṁ, vaccha, kinti byākareyyāsī”ti? ",
+      "english": "east, south, west, or north?’ How would you answer?” ",
+      "chinese": "东方、南方、西方，还是北方？’这样问时，你会怎样回答？”",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:19.18": {
+      "sutta_id": "mn72",
+      "pali": "“Na upeti, bho gotama, yañhi so, bho gotama, aggi tiṇakaṭṭhupādānaṁ paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro nibbutotveva saṅkhyaṁ gacchatī”ti. ",
+      "english": "“It doesn’t apply, worthy Gotama. The fire depended on grass and logs as fuel. When that runs out, and no more fuel is added, the fire is reckoned to have become quenched due to lack of fuel.” ",
+      "chinese": "“乔答摩尊者，这样说不适用。那团火依靠草木燃料燃烧；燃料耗尽，又没有添加其他燃料，便由于没有燃料而被称为熄灭。”",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn72:20.4": {
+      "sutta_id": "mn72",
+      "pali": "Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. ",
+      "english": "‘They’re reborn’, ‘they’re not reborn’, ‘they’re both reborn and not reborn’, ‘they’re neither reborn nor not reborn’—none of these apply. ",
+      "chinese": "“会再生”不适用，“不会再生”不适用，“既会再生又不会再生”不适用，“既非会再生亦非不会再生”也不适用。",
+      "note": "19.10、19.13–14、19.18为婆蹉回答；19.11–12、19.15–17及20.4为佛陀提问或说明。",
+      "source_sha256": {
+        "root-pli-ms": "ebb16c7425d6514927a86c1e0fcd0e293da82e978ca72326eea2ab3e599857c3",
+        "translation-en-sujato": "2360ce0bf72af5d090d44cef521832938b851af11280206e8d036cd96bd9af39"
+      }
+    },
+    "mn26:18.1": {
+      "sutta_id": "mn26",
+      "pali": "So kho ahaṁ, bhikkhave, attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ. ",
+      "english": "And so, being myself liable to be reborn, understanding the drawbacks in being liable to be reborn, I sought that which is free of rebirth, the supreme sanctuary from the yoke, extinguishment—and I found it. Being myself liable to grow old, fall sick, die, sorrow, and become corrupted, understanding the drawbacks in these things, I sought that which is free of old age, sickness, death, sorrow, and corruption, the supreme sanctuary from the yoke, extinguishment—and I found it. ",
+      "chinese": "比丘们，我自身有生，见到生的过患，寻求无生、无上的离缚安稳——涅槃，并证得了它；自身有老、病、死、忧和染污，见到这些的过患，寻求并证得无老、无病、不死、无忧、无染污、无上的离缚安稳——涅槃。",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:18.2": {
+      "sutta_id": "mn26",
+      "pali": "Ñāṇañca pana me dassanaṁ udapādi: ",
+      "english": "Knowledge and vision arose in me: ",
+      "chinese": "于是，我生起了这样的知与见：",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:18.3": {
+      "sutta_id": "mn26",
+      "pali": "‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’ti. ",
+      "english": "‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’ ",
+      "chinese": "“我的解脱不可动摇；这是最后一生，现在不再有后有。”",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.1": {
+      "sutta_id": "mn26",
+      "pali": "Tassa mayhaṁ, bhikkhave, etadahosi: ",
+      "english": "Then it occurred to me, ",
+      "chinese": "比丘们，那时我这样想：",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.2": {
+      "sutta_id": "mn26",
+      "pali": "‘adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. ",
+      "english": "‘This principle I have discovered is deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of logic, subtle, comprehensible to the astute. ",
+      "chinese": "“我所证得的法甚深、难见、难理解，寂静、殊胜，非仅靠思辨所能达到，微妙，为智者所能体知。",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.3": {
+      "sutta_id": "mn26",
+      "pali": "Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā. ",
+      "english": "But people like clinging, they love it and enjoy it. ",
+      "chinese": "然而，众生喜好依著、乐于依著、欣悦于依著。",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.4": {
+      "sutta_id": "mn26",
+      "pali": "Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ—idappaccayatā paṭiccasamuppādo. ",
+      "english": "It’s hard for them to see this topic; that is, specific conditionality, dependent origination. ",
+      "chinese": "对于喜好依著、乐于依著、欣悦于依著的众生，这一处难以见到，即此缘性、缘起。",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.5": {
+      "sutta_id": "mn26",
+      "pali": "Idampi kho ṭhānaṁ duddasaṁ yadidaṁ—sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. ",
+      "english": "It’s also hard for them to see this topic; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. ",
+      "chinese": "这一处也难以见到，即一切行的止息、一切依的舍离、渴爱的灭尽、离贪、灭、涅槃。",
+      "note": "佛陀回述；引号中的第一人称属于经文说话者。中文为工作译文。 本组思惟的引述延续至19.6。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "dn31:5.5": {
+      "sutta_id": "dn31",
+      "pali": "Idamavoca bhagavā. ",
+      "english": "That is what the Buddha said. ",
+      "chinese": "世尊这样说。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "dn31:7.1": {
+      "sutta_id": "dn31",
+      "pali": "“Katamāni cha bhogānaṁ apāyamukhāni na sevati? ",
+      "english": "“What six drains on wealth do they avoid? ",
+      "chinese": "不从事哪六种耗散财物的途径？",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "dn31:7.2": {
+      "sutta_id": "dn31",
+      "pali": "Surāmerayamajjappamādaṭṭhānānuyogo kho, gahapatiputta, bhogānaṁ apāyamukhaṁ, vikālavisikhācariyānuyogo bhogānaṁ apāyamukhaṁ, samajjābhicaraṇaṁ bhogānaṁ apāyamukhaṁ, jūtappamādaṭṭhānānuyogo bhogānaṁ apāyamukhaṁ, pāpamittānuyogo bhogānaṁ apāyamukhaṁ, ālasyānuyogo bhogānaṁ apāyamukhaṁ. ",
+      "english": "Habitually engaging in the following things is a drain on wealth: beer, wine, and liquor intoxicants; roaming the street markets at night; frequenting festivals; gambling; bad friends; laziness. ",
+      "chinese": "居士子，沉迷于使人放逸的酒类，是耗散财物的途径；不适时地游荡街巷、经常观看娱乐集会、沉迷赌博、亲近恶友、惯于懒惰，也都是耗散财物的途径。",
+      "note": "中文为AI编辑工作译文；anuyoga在此按沉迷、惯常从事理解，不能外推为现代饮酒安全剂量。",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "dn31:8.1": {
+      "sutta_id": "dn31",
+      "pali": "Cha khome, gahapatiputta, ādīnavā surāmerayamajjappamādaṭṭhānānuyoge. ",
+      "english": "There are these six drawbacks of habitually consuming intoxicants of beer, wine, and liquor. ",
+      "chinese": "居士子，沉迷于使人放逸的酒类，有这六种过患。",
+      "note": "中文为AI编辑工作译文；anuyoga在此按沉迷、惯常从事理解，不能外推为现代饮酒安全剂量。",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "dn31:8.2": {
+      "sutta_id": "dn31",
+      "pali": "Sandiṭṭhikā dhanajāni, kalahappavaḍḍhanī, rogānaṁ āyatanaṁ, akittisañjananī, kopīnanidaṁsanī, paññāya dubbalikaraṇītveva chaṭṭhaṁ padaṁ bhavati. ",
+      "english": "Immediate loss of wealth, promotion of quarrels, susceptibility to illness, disrepute, indecent exposure; and weakened wisdom is the sixth thing. ",
+      "chinese": "现前损失财物，增加争吵，成为疾病的温床，招致坏名声，失态露体；第六是削弱智慧。",
+      "note": "kopīnanidaṁsana按本段和对照译本译作失态露体；paññāya dubbalikaraṇa译作削弱智慧。",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "dn31:8.3": {
+      "sutta_id": "dn31",
+      "pali": "Ime kho, gahapatiputta, cha ādīnavā surāmerayamajjappamādaṭṭhānānuyoge. ",
+      "english": "These are the six drawbacks of habitually consuming intoxicants of beer, wine, and liquor. ",
+      "chinese": "居士子，沉迷于使人放逸的酒类，有这六种过患。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "7b14e99b8e11e7d85af51aadb900797ce2c66ed1e15ea16b0917348e0204e9dd",
+        "translation-en-sujato": "b3128be9e3dc79ca134efd89bbfd65a3042ab62289156cd185fcc16279648dc0"
+      }
+    },
+    "an8.54:9.1": {
+      "sutta_id": "an8.54",
+      "pali": "Cattārome, byagghapajja, dhammā kulaputtassa samparāyahitāya saṁvattanti samparāyasukhāya. ",
+      "english": "These four things lead to the welfare and happiness of a gentleman in lives to come. ",
+      "chinese": "虎路，有四种法，导向在家人的来世利益与安乐。",
+      "note": "虎路为Byagghapajja的工作译名。",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "an8.54:9.2": {
+      "sutta_id": "an8.54",
+      "pali": "Katame cattāro? ",
+      "english": "What four? ",
+      "chinese": "哪四种？",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "an8.54:9.3": {
+      "sutta_id": "an8.54",
+      "pali": "Saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā. ",
+      "english": "Accomplishment in faith, ethics, generosity, and wisdom. ",
+      "chinese": "信成就、戒行成就、舍施成就、智慧成就。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "an8.54:11.1": {
+      "sutta_id": "an8.54",
+      "pali": "Katamā ca, byagghapajja, sīlasampadā? ",
+      "english": "And what is accomplishment in ethics? ",
+      "chinese": "虎路，什么是戒行成就？",
+      "note": "虎路为Byagghapajja的工作译名。",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "an8.54:11.2": {
+      "sutta_id": "an8.54",
+      "pali": "Idha, byagghapajja, kulaputto pāṇātipātā paṭivirato hoti …pe… surāmerayamajjapamādaṭṭhānā paṭivirato hoti. ",
+      "english": "It’s when a gentleman doesn’t kill living creatures, steal, commit sexual misconduct, lie, or consume intoxicants of beer, wine, and liquor. ",
+      "chinese": "在这里，在家者离杀生……离使人放逸的酒类。",
+      "note": "巴利本pe为省略标记，中文保留；对照英译展开了中间戒条，不能把英译的展开冒充巴利完整原句。",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "an8.54:11.3": {
+      "sutta_id": "an8.54",
+      "pali": "Ayaṁ vuccati, byagghapajja, sīlasampadā. ",
+      "english": "This is called accomplishment in ethics. ",
+      "chinese": "这称为戒行成就。",
+      "note": "",
+      "source_sha256": {
+        "root-pli-ms": "2b58e5e0e2a1140047181ea28327f63ab5cf319667f6c7875f520d9f0227e12f",
+        "translation-en-sujato": "93bbd285f3a31d451b5969eda4ac8e2bce3656967424325c2573614d276b4874"
+      }
+    },
+    "mn26:13.1": {
+      "sutta_id": "mn26",
+      "pali": "Ahampi sudaṁ, bhikkhave, pubbeva sambodhā anabhisambuddho bodhisattova samāno attanā jātidhammo samāno jātidhammaṁyeva pariyesāmi, attanā jarādhammo samāno jarādhammaṁyeva pariyesāmi, attanā byādhidhammo samāno byādhidhammaṁyeva pariyesāmi, attanā maraṇadhammo samāno maraṇadhammaṁyeva pariyesāmi, attanā sokadhammo samāno sokadhammaṁyeva pariyesāmi, attanā saṅkilesadhammo samāno saṅkilesadhammaṁyeva pariyesāmi. ",
+      "english": "Mendicants, before my awakening—when I was still unawakened but intent on awakening—I too, being liable to be reborn, sought what is also liable to be reborn. Myself liable to grow old, fall sick, die, sorrow, and become corrupted, I sought what is also liable to these things. ",
+      "chinese": "比丘们，在我正觉之前，尚未觉悟、仍为菩萨时，我自己受生支配，却只寻求同样受生支配的事物；自己受老、病、死、忧、染污支配，却只寻求同样受这些条件支配的事物。",
+      "note": "工作译文；此处第一人称为经中说话者。13.4中文合并了原句逐项重复的相同结构，不作佛陀中文逐字原话。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:13.2": {
+      "sutta_id": "mn26",
+      "pali": "Tassa mayhaṁ, bhikkhave, etadahosi: ",
+      "english": "Then it occurred to me: ",
+      "chinese": "比丘们，那时我这样想：",
+      "note": "工作译文；此处第一人称为经中说话者。13.4中文合并了原句逐项重复的相同结构，不作佛陀中文逐字原话。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:13.3": {
+      "sutta_id": "mn26",
+      "pali": "‘kiṁ nu kho ahaṁ attanā jātidhammo samāno jātidhammaṁyeva pariyesāmi, attanā jarādhammo samāno …pe… byādhidhammo samāno … maraṇadhammo samāno … sokadhammo samāno … attanā saṅkilesadhammo samāno saṅkilesadhammaṁyeva pariyesāmi? ",
+      "english": "‘Why do I, being liable to be reborn, grow old, fall sick, sorrow, die, and become corrupted, seek things that have the same nature? ",
+      "chinese": "我自己受生支配，为什么还只寻求同样受生支配的事物？自己受老支配……受病支配……受死支配……受忧支配……自己受染污支配，为什么还只寻求同样受染污支配的事物？",
+      "note": "巴利原句的省略保留；此处第一人称的说话者为佛陀，并非助手。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:13.4": {
+      "sutta_id": "mn26",
+      "pali": "Yannūnāhaṁ attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyaṁ, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyaṁ, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyaṁ, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyaṁ, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyaṁ, attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyeseyyan’ti. ",
+      "english": "Why don’t I seek that which is free of rebirth, old age, sickness, death, sorrow, and corruption, the supreme sanctuary from the yoke, extinguishment?’ ",
+      "chinese": "我自己受生支配，了知受生的过患，何不寻求不生的、无上离轭安稳——涅槃？自己受老、病、死、忧、染污支配，了知这些过患，何不寻求不老、不病、不死、无忧、无染的、无上离轭安稳——涅槃？",
+      "note": "工作译文；此处第一人称为经中说话者。13.4中文合并了原句逐项重复的相同结构，不作佛陀中文逐字原话。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:14.1": {
+      "sutta_id": "mn26",
+      "pali": "So kho ahaṁ, bhikkhave, aparena samayena daharova samāno susukāḷakeso, bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṁ mātāpitūnaṁ assumukhānaṁ rudantānaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ. ",
+      "english": "Some time later, while still with pristine black hair, blessed with youth, in the prime of life—though my mother and father wished otherwise, weeping with tearful faces—I shaved off my hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness. ",
+      "chinese": "比丘们，后来，我还年轻，头发乌黑，正值青春年华；虽然父母不愿，满面泪水地哭泣，我仍剃去须发，穿上袈裟，从在家生活走向无家生活而出家。",
+      "note": "中文工作译文，非历史人物中文逐字原话；此处是佛陀向比丘回述。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.6": {
+      "sutta_id": "mn26",
+      "pali": "Ahañceva kho pana dhammaṁ deseyyaṁ, pare ca me na ājāneyyuṁ, so mamassa kilamatho, sā mamassa vihesā’ti. ",
+      "english": "And if I were to teach this principle, others might not understand me, which would be wearying and troublesome for me.’ ",
+      "chinese": "如果我说法而别人不能理解，那会使我疲劳、困扰。”",
+      "note": "中文工作译文，非历史人物中文逐字原话；此处是佛陀向比丘回述。 此处结束19.2开始的引述。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:19.16": {
+      "sutta_id": "mn26",
+      "pali": "Itiha me, bhikkhave, paṭisañcikkhato appossukkatāya cittaṁ namati, no dhammadesanāya. ",
+      "english": "So, as I reflected like this, my mind inclined to remaining passive, not to teaching the Dhamma. ",
+      "chinese": "比丘们，我这样思量时，心倾向于不再操心，而不倾向于说法。",
+      "note": "中文工作译文，非历史人物中文逐字原话；此处是佛陀向比丘回述。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:20.6": {
+      "sutta_id": "mn26",
+      "pali": "Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. ",
+      "english": "There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching. ",
+      "chinese": "有些众生眼中尘垢较少，因为没有听闻法而失去机会。",
+      "note": "中文工作译文；此处说话者为梵天娑婆主，不是佛陀。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    },
+    "mn26:20.7": {
+      "sutta_id": "mn26",
+      "pali": "Bhavissanti dhammassa aññātāro’ti. ",
+      "english": "There will be those who understand the teaching!’ ",
+      "chinese": "会有能够理解法的人。",
+      "note": "中文工作译文；此处说话者为梵天娑婆主，不是佛陀。",
+      "source_sha256": {
+        "root-pli-ms": "818a96901d70d322087671bed3bc2669f0ec1d8f4a0b463e6b7d935931f6adec",
+        "translation-en-sujato": "ca77a47c774557bc22bd1ec3af25f0dcc666d731e56895c74ebb3d885a1cdf67"
+      }
+    }
+  },
+  "package_note": "继承闻法中文v0.7.0；调整说话者备注的适用段落，并依固定巴利与英译修正MN26:19.2–19.6的中文引号边界。中文尚未经独立核定。",
+  "package_revision": "1"
+}
